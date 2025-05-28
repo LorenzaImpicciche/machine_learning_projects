@@ -1,6 +1,6 @@
 # Machine Learning Projects: Spectral Analysis & Gasoline Quality Prediction
 
-This repository contains two machine learning projects developed as part of the **"Applications of Machine Learning"** class in the Master's Degree program in **Particle Physics and Applied Physics**.
+This repository contains two machine learning projects focused on supervised classification of spectral data using techniques such as Random Forest, PCA, Neural Networks, and SVM.
 
 ##  Authors
 This is a group project developed for the **Machine Learning Applications** course within the  
